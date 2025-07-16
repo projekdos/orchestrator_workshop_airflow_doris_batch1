@@ -64,6 +64,7 @@ This quiz simulates a **real-world use case**: building a data pipeline that pro
 
 10. Win by Speed + Accuracy
    - First correct submission gets the prize.
+   - Deadline 31 Jul 2025, 23:59:59
 
 Your job is to transform raw market data into **actionable insights** for traders, analysts, or BI dashboards.
 
