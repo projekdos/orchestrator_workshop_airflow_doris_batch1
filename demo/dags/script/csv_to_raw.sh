@@ -12,4 +12,4 @@ curl --location-trusted \
   -H "columns: symbol, date, ohlc, volume, spread" \
   -H "max_filter_ratio: 0.1" \
   -T $BASE_PATH/market_data_ohlcv.json \
-  -XPUT http://157.10.161.146:8030/api/raw/market_data_ohlcv/_stream_load
+  -XPUT http://localhost:8030/api/raw/market_data_ohlcv/_stream_load
